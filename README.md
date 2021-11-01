@@ -1,6 +1,6 @@
 ### Hi there, I'm Donna 👋
 
- ###  I'm a Visual Inspector, Therapist and Web Dev! 😄
+ ###  I'm a Visual Inspector and Web Dev! 😄
 
 <!--
 **DonnaDiloy/DonnaDiloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
