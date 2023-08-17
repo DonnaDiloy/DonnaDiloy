@@ -1,6 +1,4 @@
-### <div class="print-area">
-        <div class="header">
-            <img src="[https://i.postimg.cc/nc9Xr6Wc/skype.jpg](https://i.postimg.cc/HL5cxLzS/th.jpg)"> </div> there, I'm Donna 👋
+### Hi there, I'm Donna 👋
 
  ###  Passionate Web Developer
  ! 😄
@@ -11,7 +9,6 @@
 Here are some ideas to get you started:-->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m continuesly learning  everything
 - 👯 I’m looking to collaborate with other content creators
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
